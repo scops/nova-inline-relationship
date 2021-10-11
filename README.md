@@ -24,7 +24,7 @@ This Nova field requires Nova 2.0 or higher.
 You can install this package in a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require kirschbaum-development/nova-inline-relationship
+composer require scops/nova-inline-relationship
 ```
 
 ## Usage
