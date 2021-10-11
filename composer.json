@@ -1,5 +1,5 @@
 {
-    "name": "kirschbaum-development/nova-inline-relationship",
+    "name": "scops/nova-inline-relationship",
     "description": "A Laravel Nova field for displaying relationship properties inline.",
     "keywords": [
         "laravel",
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "KirschbaumDevelopment\\NovaInlineRelationship\\": "src/"
+            "scops\\NovaInlineRelationship\\": "src/"
         }
     },
     "autoload-dev": {
